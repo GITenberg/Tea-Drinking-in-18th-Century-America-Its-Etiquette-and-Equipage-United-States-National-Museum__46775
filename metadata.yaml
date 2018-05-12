@@ -1,10 +1,16 @@
 _repo: Tea-Drinking-in-18th-Century-America-Its-Etiquette-and-Equipage-United-States-National-Museum__46775
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46775-h/images/cover.jpg
 creator:
   author:
     agent_name: Roth, Rodris
     gutenberg_agent_id: '43986'
     url: http://www.gutenberg.org/2009/agents/43986
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46775#Tea-Drinking-in-18th-Century-America-Its-Etiquette-and-Equipage-United-States-National-Museum_
 gutenberg_issued: '2014-09-13'
 gutenberg_type: Text
 identifiers:
